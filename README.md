@@ -1,36 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Finlytics – Credit Risk Modelling</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            line-height: 1.6;
-            background-color: #f8f5ff;
-            color: #2c2541;
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            color: #3b2f63;
-        }
-        code {
-            background-color: #eee;
-            padding: 3px 6px;
-            border-radius: 4px;
-        }
-        .box {
-            background-color: #ffffff;
-            padding: 15px;
-            border-radius: 10px;
-            margin: 15px 0;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
-        }
-    </style>
-</head>
-
-<body>
-
 <h1>📊 Finlytics</h1>
 <h3>Smart credit insights powered by data, not guesswork.</h3>
 
@@ -172,7 +139,7 @@ Finlytics/
 <div class="box">
 <p>
 <strong>Vaishnavi Khatri</strong><br>
-International Institue Of Professional Studies (IIPS)<br>
+International Institute Of Professional Studies (IIPS)<br>
 Devi Ahilya Vishwavidyalaya (DAVV), Indore
 </p>
 </div>
